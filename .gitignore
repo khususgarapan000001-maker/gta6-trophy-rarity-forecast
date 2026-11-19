@@ -1,8 +1,5 @@
-# Build / run outputs
+node_modules/
+*.log
 out/
-*.out
-# Editor and OS artefacts
+output/
 .DS_Store
-*.swp
-# Local test scratch (kept out of the entry)
-tmp/
