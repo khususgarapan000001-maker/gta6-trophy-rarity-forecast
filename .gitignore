@@ -1,0 +1,8 @@
+# Build / run outputs
+out/
+*.out
+# Editor and OS artefacts
+.DS_Store
+*.swp
+# Local test scratch (kept out of the entry)
+tmp/
