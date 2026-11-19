@@ -1,5 +1,5 @@
 node_modules/
 *.log
 out/
-output/
+tmp/
 .DS_Store
